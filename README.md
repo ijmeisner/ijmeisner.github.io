@@ -1,3 +1,3 @@
-ijmeisner.github.io
+https://ijmeisner.github.io
 ===================
 Created on October 27th, 2014
